@@ -4,8 +4,7 @@
 This project is an interactive **HR Analytics Dashboard** built using **Power BI** to analyze employee data and identify workforce trends. The dashboard helps organizations understand employee attrition, demographics, job satisfaction, salary insights, and department-wise performance.
 
 ## Dashboard Preview
-![HR Analytics Dashboard](<img width="1382" height="738" alt="HR_Analytics_Dashboard_Screenshot" src="https://github.com/user-attachments/assets/10e53739-81d0-4c87-a239-0ef5c29b8fed" />
-)
+![HR Analytics Dashboard](https://github.com/Lavakumarmarisarla/HR_Analytics_Dashboard/blob/main/HR_Data_Analytics_Dashboard_Screenshot.png)
 
 ## Key Metrics
 - Total Employees: **1470**
