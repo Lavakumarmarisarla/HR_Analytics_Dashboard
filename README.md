@@ -80,5 +80,3 @@ Aspiring Data Analyst | Data Science Learner
 LinkedIn: Add your LinkedIn profile link here  
 GitHub: https://github.com/Lavakumarmarisarla
 
----
-⭐ If you found this project useful, give it a star.# HR_Analytics_Dashboard
