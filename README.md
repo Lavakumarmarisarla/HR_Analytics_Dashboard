@@ -77,6 +77,6 @@ HR-Analytics-Dashboard/
 **Lavakumar Marisarla**  
 Aspiring Data Analyst | Data Science Learner
 
-LinkedIn: Add your LinkedIn profile link here  
+LinkedIn: www.linkedin.com/in/lavakumarmarisarla
 GitHub: https://github.com/Lavakumarmarisarla
 
